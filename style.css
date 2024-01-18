@@ -20,11 +20,6 @@ canvas{
     animation-iteration-count: infinite;
 }
 
-@keyframes example{
-    from{box-shadow:1px 1px 38px gray;}
-    to{box-shadow:1px 1px 38px white;}
-
-}
 
 p{
     padding-top: 10px;
